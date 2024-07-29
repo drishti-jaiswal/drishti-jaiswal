@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DRISHTI JAISWAL</h1>
-<h3 align="center">A passionate Data Science Student building the future with technology</h3>
+<h3 align="center">A passionate Data Science student building the future with technology</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
